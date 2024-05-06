@@ -1,0 +1,11 @@
+Playnite - HowLongToBeat plugin
+
+https://playnite.link/addons.html
+https://github.com/Lacro59/playnite-howlongtobeat-plugin/blob/master/source/HowLongToBeat.cs
+https://github.com/Lacro59/playnite-howlongtobeat-plugin/blob/663e0e8aed2a70be31586db4413fd4e623da8c7a/source/Services/HowLongToBeatDatabase.cs#L813
+
+Decky cloud save
+https://github.com/GedasFX/decky-cloud-save
+
+Deckbrew wiki
+https://wiki.deckbrew.xyz/en/plugin-dev/getting-started
